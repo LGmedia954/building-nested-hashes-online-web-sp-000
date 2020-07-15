@@ -18,6 +18,6 @@ def fourth_challenge
 
 end
 
-montague[:hero, status] = "dead"
+montague[:status] = "dead"
 
-capulet[:heroine, status] = "dead"
+capulet[:status] = "dead"
