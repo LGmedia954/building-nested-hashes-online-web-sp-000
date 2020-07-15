@@ -17,7 +17,3 @@ def fourth_challenge
 }
 
 end
-
-hero[:status] = "dead"
-
-heroine[:status] = "dead"
