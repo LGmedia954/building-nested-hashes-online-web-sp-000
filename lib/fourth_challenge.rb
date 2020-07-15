@@ -18,3 +18,4 @@ def fourth_challenge
 
 end
 
+montague[:hero, status] = dead
